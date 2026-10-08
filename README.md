@@ -11,6 +11,7 @@ Fundamentos de cibersegurança concluídos (Santander Open Academy)
 Construindo laboratório próprio e isolado para estudo de segurança de redes Wi-Fi
 Aprendendo SQL/PostgreSQL do zero
 Seguindo roadmap de Python para back-end
+
 🧰 Stack e ferramentas
 Python SQL/PostgreSQL Linux (Ubuntu/Fedora/Kali) Docker Git
 
@@ -22,8 +23,6 @@ Projeto	Descrição
 🐍python-backend-roadmap: Scripts Python do meu roadmap de back-end
 
 🐘sql-postgresql-studies:	 Exercícios e mini-projetos de SQL/PostgreSQL
-
-nome-do-repo	Device estilo multitool (ESP32 + CC1101) — hardware + firmware
 
 💻kali-to-ubuntu-migration: 	Guia de migração Kali → Fedora 
 → Ubuntu (troubleshooting documentado)
@@ -60,8 +59,6 @@ Project	Description
 🐍python-backend-roadmap: 	Python scripts from my back-end roadmap
 
 🐘sql-postgresql-studies: 	SQL/PostgreSQL exercises and mini-projects
-
-repo-name	ESP32 + CC1101 multitool device — hardware + firmware
 
 💻kali-to-ubuntu-migration:	Kali → Fedora → Ubuntu migration guide (documented troubleshooting)
 📜 Certifications
