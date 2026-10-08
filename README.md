@@ -29,6 +29,14 @@
 | 🐘 [sql-postgresql-studies](#) | Exercícios e mini-projetos de SQL/PostgreSQL |
 | 💻 [kali-to-ubuntu-migration](#) | Guia de migração Kali → Fedora → Ubuntu (troubleshooting documentado) |
 
+## 💼 Experiência prática
+
+**Diagnóstico de falha de rede multi-subnet em ambiente de produção**
+Resolvi um problema de conectividade entre um sistema de ponto de venda e um concentrador de preços de combustíveis (automação de posto), que operavam em subnets diferentes dentro de uma rede com CGNAT e VPN mesh. Isolei a causa raiz analisando tabelas ARP e logs de erro de socket, e resolvi configurando roteamento de subnet e IP secundário.
+
+**Setup de acesso remoto seguro via Tailscale**
+Configurei acesso remoto persistente a equipamentos de monitoramento (nível de tanques de combustível) atrás de CGNAT, usando subnet routing e compartilhamento de acesso com permissões escopadas para outros usuários.
+
 ## 📜 Certificações
 
 - Fundamentos de Cibersegurança — Santander Open Academy
@@ -70,6 +78,14 @@
 | 🐍 [python-backend-roadmap](#) | Python scripts from my back-end roadmap |
 | 🐘 [sql-postgresql-studies](#) | SQL/PostgreSQL exercises and mini-projects |
 | 💻 [kali-to-ubuntu-migration](#) | Kali → Fedora → Ubuntu migration guide (documented troubleshooting) |
+
+## 💼 Practical experience
+
+**Multi-subnet network failure diagnosis in a production environment**
+Resolved a connectivity issue between a point-of-sale system and a fuel price concentrator (fuel station automation) operating on different subnets within a CGNAT + VPN mesh network. Isolated the root cause by analyzing ARP tables and socket error logs, and fixed it by configuring subnet routing and a secondary IP.
+
+**Secure remote access setup via Tailscale**
+Configured persistent remote access to monitoring equipment (fuel tank level sensors) behind CGNAT, using subnet routing and scoped access sharing for other users.
 
 ## 📜 Certifications
 
