@@ -1,73 +1,88 @@
-🇧🇷 Português | 🇺🇸 English
+🇧🇷 [Português](#-olá-eu-sou-o-victor) | 🇺🇸 [English](#-hi-im-victor)
 
-👋 Olá, eu sou o Victor
+---
 
-🔐 Em transição de carreira para Blue Team / Purple Team em cibersegurança 🐍 Estudando Python (back-end) e SQL/PostgreSQL 🐧 Linux no dia a dia (já passei por Kali, Fedora e hoje uso Ubuntu) 
+# 👋 Olá, eu sou o Victor
 
+🔐 Em transição de carreira para **Blue Team / Purple Team** em cibersegurança
+🐍 Estudando **Python** (back-end) e **SQL/PostgreSQL**
+🐧 Linux no dia a dia (já passei por Kali, Fedora e hoje uso Ubuntu)
 ⚡ Também curto eletrônica, hardware hacking e manutenção de infraestrutura
 
-🎯 Foco atual
-Fundamentos de cibersegurança concluídos (Santander Open Academy)
-Construindo laboratório próprio e isolado para estudo de segurança de redes Wi-Fi
-Aprendendo SQL/PostgreSQL do zero
-Seguindo roadmap de Python para back-end
+## 🎯 Foco atual
 
-🧰 Stack e ferramentas
-Python SQL/PostgreSQL Linux (Ubuntu/Fedora/Kali) Docker Git
+- Fundamentos de cibersegurança concluídos (Santander Open Academy)
+- Construindo laboratório próprio e isolado para estudo de segurança de redes Wi-Fi
+- Aprendendo SQL/PostgreSQL do zero
+- Seguindo roadmap de Python para back-end
 
-📌 Projetos em destaque
-Projeto	Descrição
+## 🧰 Stack e ferramentas
 
-🛜wifi-security-lab:	 Laboratório isolado de auditoria Wi-Fi — metodologia, scripts e documentação (uso educacional, ambiente próprio)
+`Python` `SQL/PostgreSQL` `Linux (Ubuntu/Fedora/Kali)` `Docker` `Git`
 
-🐍python-backend-roadmap: Scripts Python do meu roadmap de back-end
+## 📌 Projetos em destaque
 
-🐘sql-postgresql-studies:	 Exercícios e mini-projetos de SQL/PostgreSQL
+| Projeto | Descrição |
+|---|---|
+| 🛜 [wifi-security-lab](#) | Laboratório isolado de auditoria Wi-Fi — metodologia, scripts e documentação (uso educacional, ambiente próprio) |
+| 🐍 [python-backend-roadmap](#) | Scripts Python do meu roadmap de back-end |
+| 🐘 [sql-postgresql-studies](#) | Exercícios e mini-projetos de SQL/PostgreSQL |
+| 💻 [kali-to-ubuntu-migration](#) | Guia de migração Kali → Fedora → Ubuntu (troubleshooting documentado) |
 
-💻kali-to-ubuntu-migration: 	Guia de migração Kali → Fedora 
-→ Ubuntu (troubleshooting documentado)
+## 📜 Certificações
 
-📜 Certificações
-Fundamentos de Cibersegurança — Santander Open Academy
+- Fundamentos de Cibersegurança — Santander Open Academy
 
-📚 Em progresso
-Hack The Box — Junior Penetration Tester
-Cisco (Networking / Cybersecurity)
+## 📚 Em progresso
 
-📫 Contato
+- Hack The Box — Junior Penetration Tester
+- Cisco (Networking / Cybersecurity)
 
-👋 Hi, I'm Victor
+## 📫 Contato
 
-🔐 Transitioning into a Blue Team / Purple Team cybersecurity career 🐍 Studying Python (back-end) and SQL/PostgreSQL 🐧 Linux daily driver (went through Kali, Fedora, now on Ubuntu)
+<!-- LinkedIn, e-mail, etc. -->
 
+---
+
+# 👋 Hi, I'm Victor
+
+🔐 Transitioning into a **Blue Team / Purple Team** cybersecurity career
+🐍 Studying **Python** (back-end) and **SQL/PostgreSQL**
+🐧 Linux daily driver (went through Kali, Fedora, now on Ubuntu)
 ⚡ Also into electronics, hardware hacking, and infrastructure maintenance
 
-🎯 Current focus
-Completed cybersecurity fundamentals (Santander Open Academy)
-Building my own isolated lab to study Wi-Fi network security
-Learning SQL/PostgreSQL from scratch
-Following a Python back-end development roadmap
+## 🎯 Current focus
 
-🧰 Stack & tools
-Python SQL/PostgreSQL Linux (Ubuntu/Fedora/Kali) Docker Git
+- Completed cybersecurity fundamentals (Santander Open Academy)
+- Building my own isolated lab to study Wi-Fi network security
+- Learning SQL/PostgreSQL from scratch
+- Following a Python back-end development roadmap
 
-📌 Featured projects
-Project	Description
+## 🧰 Stack & tools
 
-🛜wifi-security-lab:	 Isolated Wi-Fi security lab — methodology, scripts, and documentation (educational use, own environment)
+`Python` `SQL/PostgreSQL` `Linux (Ubuntu/Fedora/Kali)` `Docker` `Git`
 
-🐍python-backend-roadmap: 	Python scripts from my back-end roadmap
+## 📌 Featured projects
 
-🐘sql-postgresql-studies: 	SQL/PostgreSQL exercises and mini-projects
+| Project | Description |
+|---|---|
+| 🛜 [wifi-security-lab](#) | Isolated Wi-Fi security lab — methodology, scripts, and documentation (educational use, own environment) |
+| 🐍 [python-backend-roadmap](#) | Python scripts from my back-end roadmap |
+| 🐘 [sql-postgresql-studies](#) | SQL/PostgreSQL exercises and mini-projects |
+| 💻 [kali-to-ubuntu-migration](#) | Kali → Fedora → Ubuntu migration guide (documented troubleshooting) |
 
-💻kali-to-ubuntu-migration:	Kali → Fedora → Ubuntu migration guide (documented troubleshooting)
-📜 Certifications
-Cybersecurity Fundamentals — Santander Open Academy
+## 📜 Certifications
 
-📚 In progress
-Hack The Box — Junior Penetration Tester
-Cisco (Networking / Cybersecurity)
+- Cybersecurity Fundamentals — Santander Open Academy
 
-📫 Contact
+## 📚 In progress
 
-Always learning — this profile gets updated as projects move forward.
+- Hack The Box — Junior Penetration Tester
+- Cisco (Networking / Cybersecurity)
+
+## 📫 Contact
+
+<!-- LinkedIn, email, etc. -->
+
+---
+*Always learning — this profile gets updated as projects move forward.*
