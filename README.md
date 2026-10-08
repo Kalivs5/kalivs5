@@ -17,11 +17,11 @@ Python SQL/PostgreSQL Linux (Ubuntu/Fedora/Kali) Docker Git
 📌 Projetos em destaque
 Projeto	Descrição
 
-🛜wifi-security-lab:	Laboratório isolado de auditoria Wi-Fi — metodologia, scripts e documentação (uso educacional, ambiente próprio)
+🛜wifi-security-lab:	 Laboratório isolado de auditoria Wi-Fi — metodologia, scripts e documentação (uso educacional, ambiente próprio)
 
-🐍python-backend-roadmap:	Scripts Python do meu roadmap de back-end
+🐍python-backend-roadmap: Scripts Python do meu roadmap de back-end
 
-🐘sql-postgresql-studies:	Exercícios e mini-projetos de SQL/PostgreSQL
+🐘sql-postgresql-studies:	 Exercícios e mini-projetos de SQL/PostgreSQL
 
 nome-do-repo	Device estilo multitool (ESP32 + CC1101) — hardware + firmware
 
@@ -55,14 +55,15 @@ Python SQL/PostgreSQL Linux (Ubuntu/Fedora/Kali) Docker Git
 📌 Featured projects
 Project	Description
 
-wifi-security-lab:	Isolated Wi-Fi security lab — methodology, scripts, and documentation (educational use, own environment)
+🛜wifi-security-lab:	 Isolated Wi-Fi security lab — methodology, scripts, and documentation (educational use, own environment)
 
-python-backend-roadmap:	Python scripts from my back-end roadmap
+🐍python-backend-roadmap: 	Python scripts from my back-end roadmap
 
-repo-name	SQL/PostgreSQL exercises and mini-projects
+🐘sql-postgresql-studies: 	SQL/PostgreSQL exercises and mini-projects
+
 repo-name	ESP32 + CC1101 multitool device — hardware + firmware
 
-kali-to-ubuntu-migration:	Kali → Fedora → Ubuntu migration guide (documented troubleshooting)
+💻kali-to-ubuntu-migration:	Kali → Fedora → Ubuntu migration guide (documented troubleshooting)
 📜 Certifications
 Cybersecurity Fundamentals — Santander Open Academy
 
