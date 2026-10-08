@@ -17,15 +17,15 @@ Python SQL/PostgreSQL Linux (Ubuntu/Fedora/Kali) Docker Git
 📌 Projetos em destaque
 Projeto	Descrição
 
-wifi-security-lab:	Laboratório isolado de auditoria Wi-Fi — metodologia, scripts e documentação (uso educacional, ambiente próprio)
+🛜wifi-security-lab:	Laboratório isolado de auditoria Wi-Fi — metodologia, scripts e documentação (uso educacional, ambiente próprio)
 
-python-backend-roadmap:	Scripts Python do meu roadmap de back-end
+🐍python-backend-roadmap:	Scripts Python do meu roadmap de back-end
 
-nome-do-repo	Exercícios e mini-projetos de SQL/PostgreSQL
+🐘sql-postgresql-studies:	Exercícios e mini-projetos de SQL/PostgreSQL
 
 nome-do-repo	Device estilo multitool (ESP32 + CC1101) — hardware + firmware
 
-kali-to-ubuntu-migration: 	Guia de migração Kali → Fedora 
+💻kali-to-ubuntu-migration: 	Guia de migração Kali → Fedora 
 → Ubuntu (troubleshooting documentado)
 
 📜 Certificações
