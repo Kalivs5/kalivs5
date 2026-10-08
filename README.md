@@ -13,8 +13,8 @@ Python SQL/PostgreSQL Linux (Ubuntu/Fedora/Kali) Docker Git
 
 📌 Projetos em destaque
 Projeto	Descrição
-nome-do-repo	Laboratório isolado de auditoria Wi-Fi — metodologia, scripts e documentação (uso educacional, ambiente próprio)
-nome-do-repo	Scripts Python do meu roadmap de back-end
+wifi-security-lab	Laboratório isolado de auditoria Wi-Fi — metodologia, scripts e documentação (uso educacional, ambiente próprio)
+python-backend-roadmap	Scripts Python do meu roadmap de back-end
 nome-do-repo	Exercícios e mini-projetos de SQL/PostgreSQL
 nome-do-repo	Device estilo multitool (ESP32 + CC1101) — hardware + firmware
 nome-do-repo	Guia de migração Kali → Fedora → Ubuntu (troubleshooting documentado)
@@ -37,8 +37,8 @@ Python SQL/PostgreSQL Linux (Ubuntu/Fedora/Kali) Docker Git
 
 📌 Featured projects
 Project	Description
-repo-name	Isolated Wi-Fi security lab — methodology, scripts, and documentation (educational use, own environment)
-repo-name	Python scripts from my back-end roadmap
+wifi-security-lab	Isolated Wi-Fi security lab — methodology, scripts, and documentation (educational use, own environment)
+python-backend-roadmap	Python scripts from my back-end roadmap
 repo-name	SQL/PostgreSQL exercises and mini-projects
 repo-name	ESP32 + CC1101 multitool device — hardware + firmware
 repo-name	Kali → Fedora → Ubuntu migration guide (documented troubleshooting)
