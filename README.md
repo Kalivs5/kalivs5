@@ -39,7 +39,9 @@ Cisco (Networking / Cybersecurity)
 
 👋 Hi, I'm Victor
 
-🔐 Transitioning into a Blue Team / Purple Team cybersecurity career 🐍 Studying Python (back-end) and SQL/PostgreSQL 🐧 Linux daily driver (went through Kali, Fedora, now on Ubuntu) ⚡ Also into electronics, hardware hacking, and infrastructure maintenance
+🔐 Transitioning into a Blue Team / Purple Team cybersecurity career 🐍 Studying Python (back-end) and SQL/PostgreSQL 🐧 Linux daily driver (went through Kali, Fedora, now on Ubuntu)
+
+⚡ Also into electronics, hardware hacking, and infrastructure maintenance
 
 🎯 Current focus
 Completed cybersecurity fundamentals (Santander Open Academy)
