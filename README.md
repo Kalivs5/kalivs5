@@ -2,7 +2,9 @@
 
 👋 Olá, eu sou o Victor
 
-🔐 Em transição de carreira para Blue Team / Purple Team em cibersegurança 🐍 Estudando Python (back-end) e SQL/PostgreSQL 🐧 Linux no dia a dia (já passei por Kali, Fedora e hoje uso Ubuntu) ⚡ Também curto eletrônica, hardware hacking e manutenção de infraestrutura
+🔐 Em transição de carreira para Blue Team / Purple Team em cibersegurança 🐍 Estudando Python (back-end) e SQL/PostgreSQL 🐧 Linux no dia a dia (já passei por Kali, Fedora e hoje uso Ubuntu) 
+
+⚡ Também curto eletrônica, hardware hacking e manutenção de infraestrutura
 
 🎯 Foco atual
 Fundamentos de cibersegurança concluídos (Santander Open Academy)
